@@ -1,0 +1,10 @@
+}
+#title_name {
+	text-align: center;
+
+}
+
+section {
+	position: center;
+	text-align: center;
+}
